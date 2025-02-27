@@ -1,5 +1,5 @@
 # hexPDS
-An ATProto PDS in Elixir/Rust
+An ATProto PDS in Elixir
 
 ## The current state of things
 
